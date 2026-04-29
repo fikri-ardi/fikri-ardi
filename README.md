@@ -1,9 +1,2 @@
-- 👋 Hi, I’m Muhammad Fikri Ardi from Indonesia
-- 👀 I’m a full-stack developer
-- 🌱 I’m currently learning and will never stop to learn
-- 📫 You can contact me at fikriiardn@gmail.com
-
-<!---
-fikri-dev/fikri-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fikri-ardi&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My%20Github%20Stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikri-ardi&layout=donut)](https://github.com/fikri-ardi/github-readme-stats)
